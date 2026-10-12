@@ -10,7 +10,6 @@ total_by3=0
 total_even=0
 total_odd=0
 for i in range(1, 52):
-    print(i)
     if i%10==0:
         continue
     if i>50:
